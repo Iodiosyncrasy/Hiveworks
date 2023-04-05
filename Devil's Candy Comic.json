@@ -1,0 +1,21 @@
+{
+  "title": "Devil's Candy Comic",
+  "description": "W.I.P.\nhttps://www.devilscandycomic.com/wp-content/uploads/2014/10/about1.png",
+  "artist": "Rem (Priscilla Hamby, Tsulala)",
+  "author": "Bikkuri (Clint Bickham)",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "01 - Devil's Genesis",
+      "volume": "",
+      "last_updated": "1680725804",
+      "groups": {
+        "": [
+          "https://www.devilscandycomic.com/comics/DVC_ch01_p001.jpg",
+          "https://www.devilscandycomic.com/comics/DVC_ch01_p002.png",
+          ""
+        ]
+      }
+    }
+  }
+}
