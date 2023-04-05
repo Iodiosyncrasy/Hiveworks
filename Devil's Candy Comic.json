@@ -5,7 +5,6 @@
   "author": "Bikkuri (Clint Bickham)",
   "cover": "http://www.blackmoontides.com/graphics/wall_may_1920x1080.jpg",
   "chapters": {
-
     "01": {
       "title": "Devil's Genesis",
       "volume": "",
@@ -121,6 +120,6 @@
           ""
         ]
       }
-    },
+    }
   }
 }
