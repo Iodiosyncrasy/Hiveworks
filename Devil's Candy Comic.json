@@ -65,8 +65,7 @@
           "https://www.devilscandycomic.com/comics/DVC_ch01_p052.png",
           "https://www.devilscandycomic.com/comics/DVC_ch01_p053.png",
           "https://www.devilscandycomic.com/comics/DVC_ch01_p054.png",
-          "https://www.devilscandycomic.com/comics/DVC_ch01_p055.png",
-          ""
+          "https://www.devilscandycomic.com/comics/DVC_ch01_p055.png"
         ]
       }
     },
@@ -76,7 +75,9 @@
       "last_updated": "1680731969",
       "groups": {
         "": [
-          "https://www.devilscandycomic.com/comics/DVC_ch01_xtra_p001.png"
+          "https://www.devilscandycomic.com/comics/DVC_ch01_xtra_p001.png",
+          "https://www.devilscandycomic.com/comics/DVC_ch01_xtra_p002.png",
+          "https://www.devilscandycomic.com/comics/DVC_ch01_xtra_p003.png"
         ]
       }
     }
