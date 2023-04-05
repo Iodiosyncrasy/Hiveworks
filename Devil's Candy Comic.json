@@ -5,8 +5,8 @@
   "author": "Bikkuri (Clint Bickham)",
   "cover": "",
   "chapters": {
-    "1": {
-      "title": "01 - Devil's Genesis",
+    "01": {
+      "title": "Devil's Genesis",
       "volume": "",
       "last_updated": "1680725804",
       "groups": {
@@ -69,8 +69,8 @@
         ]
       }
     },
-    "1.1": {
-      "title": " Chapter 1 Extra",
+    "01.1": {
+      "title": "Extra",
       "volume": "",
       "last_updated": "1680731969",
       "groups": {
