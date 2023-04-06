@@ -81,22 +81,13 @@
         ]
       }
     },
-    "02.0": {
-      "title": "Cover",
-      "volume": "",
-      "last_updated": "1680734589",
-      "groups": {
-        "": [
-          "https://www.devilscandycomic.com/comics/DVC_ch02_p000.jpg"
-        ]
-      }
-    },
     "02": {
       "title": "Devil's Lesson",
       "volume": "",
       "last_updated": "1680733083",
       "groups": {
         "": [
+          "https://www.devilscandycomic.com/comics/DVC_ch02_p000.jpg",
           "https://www.devilscandycomic.com/comics/DVC_ch02_p001.png",
           "https://www.devilscandycomic.com/comics/DVC_ch02_p002.png",
           "https://www.devilscandycomic.com/comics/DVC_ch02_p003.png",
