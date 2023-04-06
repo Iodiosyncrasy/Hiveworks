@@ -128,6 +128,26 @@
           "https://www.devilscandycomic.com/comics/DVC_ch02_p047.png"
         ]
       }
+    },
+    "03": {
+      "title": "Devil's Runway",
+      "volume": "",
+      "last_updated": "1680742755",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "04": {
+      "title": "Devil's Gridiron",
+      "volume": "",
+      "last_updated": "1680742794",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
     }
   }
 }
